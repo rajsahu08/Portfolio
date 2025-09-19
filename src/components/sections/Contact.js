@@ -73,8 +73,8 @@ export default function Contact() {
 
                     </Label>
                     <p className="text-gray-400 text-lg mt-4 max-w-2xl mx-auto">
-                        Have a project in mind or just want to chat? I'd love to hear from you.
-                        Let's create something amazing together.
+                        Have a project in mind or just want to chat? I would love to hear from you.
+                        Let&apos;s create something amazing together.
                     </p>
                 </div>
 
@@ -84,7 +84,7 @@ export default function Contact() {
                         <CardHeader>
                             <CardTitle className="text-2xl text-white">Send Message</CardTitle>
                             <CardDescription className="text-gray-400">
-                                Fill out the form below and I'll get back to you as soon as possible.
+                                Fill out the form below and I&apos;ll get back to you as soon as possible.
                             </CardDescription>
                         </CardHeader>
                         <CardContent>
@@ -124,7 +124,7 @@ export default function Contact() {
                                         id="subject"
                                         name="subject"
                                         type="text"
-                                        placeholder="What's this about?"
+                                        placeholder="What&apos;s this about?"
                                         value={formData.subject}
                                         onChange={handleInputChange}
                                         className="bg-gray-800 border-gray-600 text-white placeholder:text-gray-400 focus:border-emerald-400 focus:ring-emerald-400"
@@ -205,7 +205,7 @@ export default function Contact() {
                             <CardHeader>
                                 <CardTitle className="text-2xl text-white">Connect With Me</CardTitle>
                                 <CardDescription className="text-gray-400">
-                                    Let's connect on social media and professional networks.
+                                    Let&apos;s connect on social media and professional networks.
                                 </CardDescription>
                             </CardHeader>
                             <CardContent>
