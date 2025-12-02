@@ -23,7 +23,7 @@ export default function HeroSection() {
                             Got a Project ?
                         </Button>
                     </Link>
-                    <a href="/Resume-Raj Sah(PDF).pdf" target="_blank" rel="noopener noreferrer">
+                    <a href="/Resume-Raj Sahu.pdf" target="_blank" rel="noopener noreferrer">
                         <Button className="sm:mt-5 sm:p-5 sm:text-lg mr-2 bg-black pointer-events-auto cursor-pointer" variant="outline">
                             My Resume
                         </Button>

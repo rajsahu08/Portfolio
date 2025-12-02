@@ -3,9 +3,9 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* html {
+html {
   scroll-behavior: smooth;
-} */
+}
 
 @theme inline {
   --color-background: var(--background);
